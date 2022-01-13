@@ -26,7 +26,8 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "flatpickr": "^4.6.9",
+    "lodash.debounce": "^4.0.8",
+    "lodash.throttle": "^4.1.1",
     "notiflix": "^3.2.2"
   }
 }
